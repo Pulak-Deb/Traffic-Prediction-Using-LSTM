@@ -20,5 +20,5 @@ I used Long Short-Term Memory (LSTM) networks, a type of recurrent neural networ
 The LSTM model achieved very low Root Mean Squared Error (RMSE), demonstrating reasonable accuracy.
 
 ![Loss vs. Validation Loss - Junction 01 ](loss_vs_val_loss_junction1.png)
-![Actual vs. Predicted Vehicles - Junction 04 ](images/predictions.png)
+![Actual vs. Predicted Vehicles - Junction 04 ](Actual_vs_Predicted_Vehicles_Junction_4.png)
 
